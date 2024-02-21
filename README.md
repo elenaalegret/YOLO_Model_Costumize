@@ -15,6 +15,7 @@ Below is a list of the files included in this project, along with a brief descri
     - **12710650.out**: Output file from a specific run, containing results, logs, or messages generated during the execution.
     - **Training_gpu.err**: Error log file specifically for the GPU-based training process, essential for identifying issues in model training.
     - **Training_gpu.out**: Output file for the GPU-based training process, including training logs and performance metrics.
-3. **data**: A data file containing code for preprocessing the data for YOLO model training, such as image augmentation or format conversion.
-4. **custom.yaml**: YAML configuration file, containing settings or parameters specific to the project.
-5. **yolov7_training.pt**: A PyTorch model file, representing a trained YOLOv7 model, ready for use or further fine-tuning.
+3. **data**: A data file.
+   - **YOLO_Preprocessing.ipynb**: Jupyter notebook containing code for preprocessing the data for YOLO model training, such as image augmentation or format conversion.
+5. **custom.yaml**: YAML configuration file, containing settings or parameters specific to the project.
+6. **yolov7_training.pt**: A PyTorch model file, representing a trained YOLOv7 model, ready for use or further fine-tuning.
