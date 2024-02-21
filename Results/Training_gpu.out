@@ -1,0 +1,17 @@
+[34m[1mwandb: [0mInstall Weights & Biases for YOLOR logging with 'pip install wandb' (recommended)
+[34m[1mtrain: [0mWARNING: Ignoring corrupted image and/or label /home/nct01/nct01317/VO/data/train/images/031fd3c5bd97e63d.jpg: non-normalized or out of bounds coordinate labels
+[34m[1mtrain: [0mWARNING: Ignoring corrupted image and/or label /home/nct01/nct01317/VO/data/train/images/07513e16573fd21d.jpg: non-normalized or out of bounds coordinate labels
+[34m[1mtrain: [0mWARNING: Ignoring corrupted image and/or label /home/nct01/nct01317/VO/data/train/images/09fe99665ef82b00.jpg: non-normalized or out of bounds coordinate labels
+[34m[1mtrain: [0mWARNING: Ignoring corrupted image and/or label /home/nct01/nct01317/VO/data/train/images/0ecce0457727e210.jpg: non-normalized or out of bounds coordinate labels
+[34m[1mtrain: [0mWARNING: Ignoring corrupted image and/or label /home/nct01/nct01317/VO/data/train/images/11f9eef5be47d755.jpg: non-normalized or out of bounds coordinate labels
+[34m[1mtrain: [0mWARNING: Ignoring corrupted image and/or label /home/nct01/nct01317/VO/data/train/images/326b9a3496142b2e.jpg: duplicate labels
+[34m[1mtrain: [0mWARNING: Ignoring corrupted image and/or label /home/nct01/nct01317/VO/data/train/images/99695ba58d0b4de2.jpg: non-normalized or out of bounds coordinate labels
+[34m[1mval: [0mWARNING: Ignoring corrupted image and/or label /home/nct01/nct01317/VO/data/test/images/0a81990b49b6d7b6.jpg: non-normalized or out of bounds coordinate labels
+[34m[1mval: [0mWARNING: Ignoring corrupted image and/or label /home/nct01/nct01317/VO/data/test/images/3dc319b793a0d43d.jpg: non-normalized or out of bounds coordinate labels
+[34m[1mval: [0mWARNING: Ignoring corrupted image and/or label /home/nct01/nct01317/VO/data/test/images/50004b537dea9680.jpg: non-normalized or out of bounds coordinate labels
+[34m[1mval: [0mWARNING: Ignoring corrupted image and/or label /home/nct01/nct01317/VO/data/test/images/5492b9a0fd0df6ad.jpg: non-normalized or out of bounds coordinate labels
+[34m[1mval: [0mWARNING: Ignoring corrupted image and/or label /home/nct01/nct01317/VO/data/test/images/67c6f32376825a9c.jpg: non-normalized or out of bounds coordinate labels
+[34m[1mval: [0mWARNING: Ignoring corrupted image and/or label /home/nct01/nct01317/VO/data/test/images/9db1b12921ad725f.jpg: non-normalized or out of bounds coordinate labels
+[34m[1mval: [0mWARNING: Ignoring corrupted image and/or label /home/nct01/nct01317/VO/data/test/images/ff4d26256aef51ff.jpg: non-normalized or out of bounds coordinate labels
+
+[34m[1mautoanchor: [0mAnalyzing anchors... anchors/target = 2.91, Best Possible Recall (BPR) = 0.9972
