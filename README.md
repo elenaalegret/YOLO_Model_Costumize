@@ -1,5 +1,6 @@
+---
 # YOLO Fine-Tuning Project
-
+---
 ## Project Description
 This project focuses on fine-tuning the YOLO (You Only Look Once) model for object detection, using our custom dataset. The aim is to enhance YOLO's capabilities in identifying and classifying objects specific to the dataset provided. This adaptation will allow for more accurate and efficient object detection in environments represented by our dataset.
 
